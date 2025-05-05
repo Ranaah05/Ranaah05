@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Raner Chow
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Full+Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C2D91&width=435&lines=Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 💻 Languages
 
@@ -12,14 +12,14 @@
 
 ## 🔧 Other Tools
 
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) (Learning) ![](https://img.shields.io/badge/-Lucidchart-F37021?style=flat&logo=lucidchart&logoColor=white)
+![](https://img.shields.io/badge/-Lucidchart-F37021?style=flat&logo=lucidchart&logoColor=white)
 
 
 ## 🌱 I'm currently learning
 
 - Adding authentication to YesChef  
 - Pokémon battle simulation
-- How to use Docker
+- How to use Docker ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 ## 📫 How to reach me
