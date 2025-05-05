@@ -11,11 +11,6 @@
 ![](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🧰 Frameworks & Libraries
-
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
 ## 🖥️ IDEs & Dev Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
