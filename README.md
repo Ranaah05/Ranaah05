@@ -21,7 +21,8 @@
 - Pokémon battle simulation
 - How to use Docker ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
+- 🔭 I’m currently working on
+  
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raner-chow-b31522329/)
