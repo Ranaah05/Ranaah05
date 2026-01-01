@@ -19,7 +19,7 @@
 
 - Adding authentication to YesChef  
 - Pokémon battle simulation
-- How to use Docker ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- How to use Docker
 
 - 🔭 I’m currently working on
   
