@@ -1,8 +1,10 @@
 # Hey there! 👋
 
-I'm a Computer Science student who enjoys building systems that combine software, data, and hardware.
+- I'm a Junior Computer Science student at SNHU
 
-If an idea seems interesting, I usually try to build it and learn from it.
+- If an idea seems interesting, I'll try and build it
+  
+- Reach me at raner.chow@snhu.edu
 
 ## Tech Stack
 
@@ -31,13 +33,6 @@ If an idea seems interesting, I usually try to build it and learn from it.
 - Arduino-based autonomous robot with line-following navigation  
 - Sonar obstacle detection with concurrent sensor control  
 - OLED telemetry display and servo-mounted sonar scanning  
-
-## Interests
-
-- Data visualization  
-- Embedded systems and robotics  
-- Full-stack development  
-- Building practical tools  
 
 ## Fun Facts
 
