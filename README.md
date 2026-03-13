@@ -63,6 +63,7 @@ Tech: React Native, Supabase
 
 ## Fun Facts
 
-- I enjoy debugging complex systems  
-- I like building side projects to learn new tech  
-- I’m always experimenting with new tools
+- My favorite pets are Fish
+- I Dont Like Coffee
+- Currently Watching Knight of the Seven Kingdoms
+- Hobbies: Tennis, Piano, Gym, Experimenting
