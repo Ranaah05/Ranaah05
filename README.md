@@ -4,66 +4,44 @@ I'm a Computer Science student who enjoys building systems that combine software
 
 If an idea seems interesting, I usually try to build it and learn from it.
 
----
-
 ## Tech Stack
 
-Languages  
-- Python  
-- C++  
-- C#  
-- Java  
-- TypeScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,react,nodejs,postgres,git,arduino,supabase" />
+</p>
 
-Technologies  
-- React  
-- Node.js  
-- PostgreSQL / SQL  
-- Pandas  
-- TensorFlow / Keras  
-- REST APIs  
+## Current Projects
 
-Tools  
-- Git  
-- VS Code  
-- Arduino IDE  
-- Android Studio  
-- Jupyter Notebook  
+**Split It Up – [View Repo](https://github.com/3lenavan/Split-It-Up)**
 
----
+- Group expense-sharing mobile app built with React Native and Supabase  
+- Implementing split creation connected to a persistent backend database  
+- Designing database interactions for splits, participants, and creators  
 
-## Projects
+**Marine Debris Geospatial Analytics**
 
-**Digital Library System**  
-Full-stack web application for managing books, reservations, and loans.  
-Tech: React, TypeScript, Node.js, PostgreSQL
+- Interactive geospatial visualizations of multi-year beach cleanup data  
+- Mapping tools to identify coastal debris hotspots  
+- Collaboration with a coastal conservation non-profit  
 
-**Autonomous Robot Car**  
-Arduino-based robot with line following and sonar obstacle detection.  
-Tech: C/C++, Arduino, sensors, protothreading
+## Featured Project
 
-**Marine Debris Geospatial Analytics**  
-Data visualization project analyzing beach cleanup data and marine debris patterns.  
-Tech: Python, Pandas, Shiny, ipyleaflet
+**Autonomous Robot Car – [View Repo](REPO_LINK)**
 
-**Split It Up (In Progress)**  
-Mobile app for managing shared expenses between groups.  
-Tech: React Native, Supabase
-
----
+- Arduino-based autonomous robot with line-following navigation  
+- Sonar obstacle detection with concurrent sensor control  
+- OLED telemetry display and servo-mounted sonar scanning  
 
 ## Interests
 
 - Data visualization  
 - Embedded systems and robotics  
 - Full-stack development  
-- Building practical tools
-
----
+- Building practical tools  
 
 ## Fun Facts
 
-- My favorite pets are Fish
-- I Dont Like Coffee
-- Currently Watching Knight of the Seven Kingdoms
-- Hobbies: Tennis, Piano, Gym, Experimenting
+- Favorite pets: Fish  
+- I don't like coffee  
+- Currently watching *Knight of the Seven Kingdoms*  
+- Hobbies: Tennis, piano, gym, experimenting
