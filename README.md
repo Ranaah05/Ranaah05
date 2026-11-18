@@ -45,7 +45,7 @@
   <img alt="Marine Debris Geospatial Analytics - Python, Shiny" src="./assets/p-marine-light.svg" width="100%">
 </picture>
 
-<a href="CLIPPER_LINK"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-clipper-dark.svg"><img alt="Job Application Clipper - Gemini API, Google Apps Script" src="./assets/p-clipper-light.svg" width="100%"></picture></a>
+<a href="https://github.com/Ranaah05/obsidian-job-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-clipper-dark.svg"><img alt="Job Application Clipper - Gemini API, Google Apps Script" src="./assets/p-clipper-light.svg" width="100%"></picture></a>
 
 <br/><br/>
 
